@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [176, 320],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rux idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [196, 315],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "rux left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [175, 315],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "rux down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [165, 359],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "rux up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [172, 320],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "rux right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/rux",
+	"position": [0, 0],
+	"healthicon": "rux",
+	"flip_x": false,
+	"healthbar_colors": [255, 136, 237],
+	"camera_position": [60, 70],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

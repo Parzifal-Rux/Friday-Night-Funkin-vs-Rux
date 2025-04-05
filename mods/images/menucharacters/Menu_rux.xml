@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu-rux.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu-rux10000" x="0" y="0" width="603" height="443"/>
+	<SubTexture name="Menu-rux10001" x="603" y="0" width="603" height="443"/>
+	<SubTexture name="Menu-rux10002" x="1206" y="0" width="603" height="443"/>
+	<SubTexture name="Menu-rux10003" x="603" y="0" width="603" height="443"/>
+	<SubTexture name="Menu-rux10004" x="0" y="0" width="603" height="443"/>
+	<SubTexture name="Menu-rux10005" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10006" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10007" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10008" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10009" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10010" x="603" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10011" x="1206" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10012" x="0" y="886" width="603" height="443"/>
+	<SubTexture name="Menu-rux10013" x="1206" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10014" x="603" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10015" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10016" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10017" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10018" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10019" x="0" y="443" width="603" height="443"/>
+	<SubTexture name="Menu-rux10020" x="0" y="443" width="603" height="443"/>
+</TextureAtlas>

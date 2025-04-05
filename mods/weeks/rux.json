@@ -1,0 +1,27 @@
+{
+	"storyName": "vs.rux",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"intro",
+			"rux",
+			[
+				255,
+				100,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"rux",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rux.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rux down00.png" x="0" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down01.png" x="0" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down02.png" x="0" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down03.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down04.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down05.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down06.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down07.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down08.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux down09.png" x="772" y="0" width="772" height="1407"/>
+	<SubTexture name="rux idle00.png" x="1544" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle01.png" x="1544" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle02.png" x="2264" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle03.png" x="2984" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle04.png" x="3704" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle05.png" x="4424" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle06.png" x="5144" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle07.png" x="2984" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle08.png" x="5864" y="0" width="720" height="1423"/>
+	<SubTexture name="rux idle09.png" x="6584" y="0" width="720" height="1423"/>
+	<SubTexture name="rux left00.png" x="7304" y="0" width="740" height="1404"/>
+	<SubTexture name="rux left01.png" x="7304" y="0" width="740" height="1404"/>
+	<SubTexture name="rux left02.png" x="7304" y="0" width="740" height="1404"/>
+	<SubTexture name="rux left03.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left04.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left05.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left06.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left07.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left08.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux left09.png" x="0" y="1423" width="740" height="1404"/>
+	<SubTexture name="rux right00.png" x="740" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right01.png" x="740" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right02.png" x="740" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right03.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right04.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right05.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right06.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right07.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right08.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux right09.png" x="1529" y="1423" width="789" height="1415"/>
+	<SubTexture name="rux up00.png" x="2318" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up01.png" x="2318" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up02.png" x="2318" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up03.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up04.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up05.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up06.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up07.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up08.png" x="3015" y="1423" width="697" height="1490"/>
+	<SubTexture name="rux up09.png" x="3015" y="1423" width="697" height="1490"/>
+</TextureAtlas>

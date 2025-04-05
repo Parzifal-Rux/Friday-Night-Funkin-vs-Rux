@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "Menu-rux",
+	"antialiasing": true,
+	"idle_anim": "Menu-rux",
+	"position": [232, 34],
+	"scale": 0.55,
+	"image": "Menu_rux",
+	"flipX": false
+}
