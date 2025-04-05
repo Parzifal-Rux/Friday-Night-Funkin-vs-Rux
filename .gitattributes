@@ -1,0 +1,11 @@
+assets filter=lfs diff=lfs merge=lfs -text
+libvlc.dll filter=lfs diff=lfs merge=lfs -text
+lime.ndll filter=lfs diff=lfs merge=lfs -text
+manifest filter=lfs diff=lfs merge=lfs -text
+mods filter=lfs diff=lfs merge=lfs -text
+plugins filter=lfs diff=lfs merge=lfs -text
+do[[:space:]]NOT[[:space:]]readme.txt filter=lfs diff=lfs merge=lfs -text
+icon.ico filter=lfs diff=lfs merge=lfs -text
+libvlccore.dll filter=lfs diff=lfs merge=lfs -text
+modsList.txt filter=lfs diff=lfs merge=lfs -text
+vs[[:space:]]rux.exe filter=lfs diff=lfs merge=lfs -text
